@@ -90,7 +90,7 @@ The analysis helped identify:
 
 ### Dashboard Preview
 
-(dashboard/screenshots/full_dashboard.png)
+![Vendor Dashboard](dashboard/screenshots/full_dashboard.png)
 
 
 ---
