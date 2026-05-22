@@ -18,11 +18,11 @@ The project helps uncover business insights related to vendor contribution, prof
 ## Business Problem
 
 Organizations dealing with multiple vendors often struggle to track:
-- which vendors generate the highest revenue,
-- which vendors are most profitable,
-- which products have low inventory turnover,
-- procurement inefficiencies,
-- excess unsold inventory capital.
+- which vendors generate the highest revenue
+- which vendors are most profitable
+- which products have low inventory turnover
+- procurement inefficiencies
+- excess unsold inventory capital
 
 The objective of this project is to build a centralized analytics workflow that transforms raw operational data into meaningful business insights and interactive dashboards for decision-making.
 
@@ -31,12 +31,12 @@ The objective of this project is to build a centralized analytics workflow that 
 ## Dataset
 
 The project uses multiple raw CSV datasets related to:
-- purchases,
-- sales,
-- vendor invoices,
-- purchase prices,
-- beginning inventory,
-- ending inventory.
+- purchases
+- sales
+- vendor invoices
+- purchase prices
+- beginn inventory
+- end inventory
 
 These datasets were integrated into a SQLite database and transformed into a vendor-level analytical summary table.
 
@@ -57,24 +57,24 @@ These datasets were integrated into a SQLite database and transformed into a ven
 
 ## Analysis Workflow
 
-- data ingestion into SQLite,
-- SQL joins and aggregations,
-- KPI engineering,
-- data cleaning and preprocessing,
-- exploratory analysis,
-- dashboard creation.
+- data ingestion into SQLite
+- SQL joins and aggregations
+- KPI engineering
+- data cleaning and preprocessing
+- exploratory analysis
+- dashboard creation
 
 ---
 
 ## Key Insights
 
 The analysis helped identify:
-- top-performing vendors by sales,
-- vendors contributing the highest profit,
-- low inventory turnover products,
-- procurement inefficiencies,
-- high-margin brands,
-- unsold capital trends.
+- top-performing vendors by sales
+- vendors contributing the highest profit
+- low inventory turnover products
+- procurement inefficiencies
+- high-margin brands
+- unsold capital trends
 
 
 ---
@@ -82,11 +82,11 @@ The analysis helped identify:
 
 ## Dashboard
 
-- KPI summary cards for sales, profit, and inventory metrics.
-- Vendor and brand performance analysis.
-- Purchase contribution insights.
-- Low-performing vendor identification.
-- Interactive Power BI visualizations.
+- KPI summary cards for sales, profit, and inventory metrics
+- Vendor and brand performance analysis
+- Purchase contribution insights
+- Low-performing vendor identification
+- Interactive Power BI visualizations
 
 ### Dashboard Preview
 
